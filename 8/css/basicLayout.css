@@ -1,0 +1,35 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+h3, h2{
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+    font-size: 10px;
+    padding-top: 20px;
+}
+.zip{
+    width: 40%;
+}
+#startPage{
+    border-style: dashed; 
+    border-radius: 0px 0px 30px 5px;
+    height: 310px;
+    width: 350px;
+    border-left: 0px;
+    background-color: white;
+    padding-left: 20px;
+}
+#myAddress{
+    float:left;
+}
+
+#myLocation{
+    float:left;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
